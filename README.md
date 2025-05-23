@@ -3,7 +3,7 @@
 <img src=".github/lms-logo.png" alt="Frappe Learning logo" width="80" height="80"/>
 <h1>Frappe Learning</h1>
 
-**Easy to use, open source, Learning Management System**
+**Easy to use, open source,  Learning Management System**
 
 ![Tests](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/vandxn/main&style=flat&logo=cypress)
 
@@ -15,9 +15,9 @@
 </div>
 <br />
 <div align="center">
-	<a href="https://frappe.io/learning">Website</a>
+	<a href="https://frappe.io/learning-testing-environment">Website</a>
 	-
-	<a href="https://docs.frappe.io/learning">Documentation</a>
+	<a href="https://docs.frappe.io/learning-at-hyetelx">Documentation</a>
 </div>
 
 ## Frappe Learning
@@ -33,8 +33,6 @@ In 2021, we were looking for a Learning Management System to launch [Mon.School]
 - **Live Classes**: Group learners into batches based on courses and duration. You can then create Zoom live class for these batches right from the app. Learners get to see the list of live classes they have to take as a part of this batch.
 
 - **Quizzes and Assignments**: Create quizzes where questions can have single-choice, multiple-choice options, or can be open ended. Instructors can also add assignments which learners can submit as PDF's or Documents.
-
-- **Getting Certified**: Once a learner has completed the course or batch, you can grant them a certificate. The app provides an inbuilt certificate template. You can use this or else create a template of your own and use that instead.
 
 <details>
 <summary>View Screenshots</summary>
